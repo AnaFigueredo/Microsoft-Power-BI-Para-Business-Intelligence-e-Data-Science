@@ -40,8 +40,9 @@ Análise de Dados com Microsoft Power BI e Clínica de BI
 https://www.datascienceacademy.com.br/course/analise-de-dados-com-microsoft-power-bi-e-clinica-de-bi-dsa 
 
 Visualização de Dados e Design de Dashboards
-https://www.datascienceacademy.com.br/course/cincia-de-dados-aplicadaData Science Academy chicakanueva@yahoo.com.br 67b082e9ce9fac069a0299c7
+https://www.datascienceacademy.com.br/course/cincia-de-dados-aplicada 
 
+Fonte: Data Science Academy 
 
 
 
