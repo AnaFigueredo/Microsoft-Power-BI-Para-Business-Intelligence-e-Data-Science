@@ -26,10 +26,10 @@
 # Dicas de Como estudar para este curso
 Dedicar no mínimo de 4 a 6 horas de estudos semanalmente, essa carga horária poderá ser distribuída diariamente em pequenos períodos de 30 a 1 hora. O ideal é não passar um longo período estudando tudo de uma única vez, distribua o aprendizado em pequenas partes. 
 
-#Ferramenta a ser utilizada 
+# Ferramenta a ser utilizada 
 Power BI desktop
 
-#Referência Bibliográfica 
+# Referência Bibliográfica 
 Documentação do Power BI
 https://learn.microsoft.com/pt-br/power-bi/Power 
 
