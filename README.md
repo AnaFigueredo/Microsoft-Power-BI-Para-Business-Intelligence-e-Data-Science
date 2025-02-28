@@ -34,7 +34,7 @@ Power BI desktop
 ## 2. Primeiros Passos com o Microsoft Power BI
 
 **O que é o Power BI?**
-"O Power BI é um conjunto de ferramentas de análise de negócios para analisar dados e compartilhar insights. Monitore seu negócio e obtenha respostas rapidamente com painéis avançados disponíveis em cada dispositivo." (Fonte: Blog Microssoft Power BI https://powerbi.microsoft.com/pt-br/blog/?cdn=disable)
+"O Power BI é um conjunto de ferramentas de análise de negócios para analisar dados e compartilhar insights. Monitore seu negócio e obtenha respostas rapidamente com painéis avançados disponíveis em cada dispositivo." (Fonte: Blog Microsoft Power BI https://powerbi.microsoft.com/pt-br/blog/?cdn=disable)
 
 **O Power BI desktop** é uma versão gratuita que nos permite criar os dasboards, contudo, nessa versão não é possível compartilhar os trabalhos realizados, será necessário adquirir uma licença para que isso aconteça.  
 
