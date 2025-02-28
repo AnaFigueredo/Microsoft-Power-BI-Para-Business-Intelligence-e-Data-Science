@@ -47,6 +47,14 @@ Todos esses produtos estão diretamenta conectados e possuem uma funcionalidade 
 
 
 # Referência Bibliográfica 
+
+
+Este é o link oficial para download do Power BI Desktop:
+https://powerbi.microsoft.com/pt-br/downloads
+
+Caso tenha problemas ao encontrar a versão em Português do Brasil, utilize esse
+https://aka.ms/pbiSingleInstaller
+
 Documentação do Power BI
 https://learn.microsoft.com/pt-br/power-bi/Power 
 
