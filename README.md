@@ -43,7 +43,7 @@ O Power BI desktop é uma versão gratuita que nos permite criar os dasboards, c
 
 **Servidor de Relatórios do Power BI:** Uma infraestrutura local, que  pode ser implementada na nuvem. 
 
-Todos esses produtos estão diretamenta conectados e possuem uma funcionalidade específica para cada necessidade. O Power BI Desktop seria uma ferramenta básica, pois é a partir dela que os dasboards serão criadas, para só então fazer uso deles nas outras versões citadas anteriormente. 
+Todos esses produtos estão diretamenta conectados e possuem uma funcionalidade específica para cada necessidade. O Power BI Desktop seria uma ferramenta básica, pois é a partir dele que os dasboards serão criadas, para só então fazer uso deles nas outras versões citadas anteriormente. 
 
 
 # Referência Bibliográfica 
