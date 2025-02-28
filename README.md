@@ -26,12 +26,17 @@
 # Dicas de Como estudar para este curso
 Dedicar no mínimo de 4 a 6 horas de estudos semanalmente, essa carga horária poderá ser distribuída diariamente em pequenos períodos de 30 a 1 hora. O ideal é não passar um longo período estudando tudo de uma única vez, distribua o aprendizado em pequenas partes. 
 
+**O Power BI** não é uma ferramenta para Ciência de Dados, ele é para análise de dados. 
+
 # Ferramenta a ser utilizada 
 Power BI desktop
 
 ## 2. Primeiros Passos com o Microsoft Power BI
 
-O Power BI desktop é uma versão gratuita que nos permite criar os dasboards, contudo, nessa versão não é possível compartilhar os trabalhos realizados, será necessário adquirir uma licença para que isso aconteça.  
+**O que é o Power BI?**
+"O Power BI é um conjunto de ferramentas de análise de negócios para analisar dados e compartilhar insights. Monitore seu negócio e obtenha respostas rapidamente com painéis avançados disponíveis em cada dispositivo." (Fonte: Blog Microssoft Power BI https://powerbi.microsoft.com/pt-br/blog/?cdn=disable)
+
+**O Power BI desktop** é uma versão gratuita que nos permite criar os dasboards, contudo, nessa versão não é possível compartilhar os trabalhos realizados, será necessário adquirir uma licença para que isso aconteça.  
 
 **Power BI Pro:** é mais indicado para empresas e faz as publicações online. 
 
